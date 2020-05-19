@@ -1,2 +1,2 @@
 # Projects
-This repository 
+Some projects, experiments and notes of whatever makes me curious.
