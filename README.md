@@ -1,2 +1,3 @@
 # Python
-Some projects, experiments and notes of whatever makes me curious.
+
+Repositório com exercícios de diversos assuntos em Python.
