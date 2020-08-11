@@ -8,7 +8,7 @@ Visualização de plots tridimensionais da clusterização de dados com algorít
 
 **_02-Twitter_Matplotlib_**
 
-Notebook utilizado para montar as funcões que rodavam a primeira versão do My Twitter Data.
+Notebook utilizado para montar as funcões que rodavam a primeira versão do My Twitter Data (com gráficos Matplotlib)
 
 **_03-Altair_exercise_**
 
@@ -26,3 +26,7 @@ Reprodução de exemplos de várias fontes para entender como os gráficos do Pl
 Exercícios do curso interactive python dashboards with plotly and dash:
 
 https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/
+
+**_06-Twitter_Plotly_**
+
+Notebook utilizado para montar as funcões que rodavam a segunda versão do My Twitter Data (com gráficos plotly)
